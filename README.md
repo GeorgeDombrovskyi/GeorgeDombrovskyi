@@ -17,7 +17,7 @@
         <p>TERMINAL</p>
           </td>
            <td align="center">
-  <a href="https://github.com/GeorgeDombrovskyi/Terminal_gls">
+  <a href="https://github.com/GeorgeDombrovskyi/SQL_gls">
         <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX14434911.jpg" 
           width="50" height="50">
       </a> 

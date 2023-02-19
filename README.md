@@ -1,5 +1,5 @@
 <p align="center">
-~~ MY GLOSSARIES ~~
+~~ :octocat:  MY GLOSSARIES 📄  ~~
 <br align="center">
   (click the image)
   </br>

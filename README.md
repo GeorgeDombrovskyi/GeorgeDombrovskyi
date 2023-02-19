@@ -1,5 +1,6 @@
+<p align="center">:octocat: Hey What's up!</p>
 <p align="center">
-~~ :octocat:  MY GLOSSARIES 📄  ~~
+~~  📄 MY GLOSSARIES   ~~
 <br align="center">
   (click the image)
   </br>

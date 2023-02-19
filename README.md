@@ -1,7 +1,3 @@
-### Hi there 👋
-🔭 I’m currently working on ...
-
-
 <p align="center">
 ~~ MY GLOSSARIES ~~
 <br align="center">

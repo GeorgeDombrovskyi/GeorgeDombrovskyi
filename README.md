@@ -15,12 +15,13 @@
           </td>
            <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/SQL_gls">
-        <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX14434911.jpg" 
-          width="50" height="50">
-      </a> 
-             <br>SQL</br>
-          </td>
-  </tr>
+        <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX14434911.jpg" width="50" height="50"> </a> 
+             <br>SQL</br> </td> 
+                 <td align="center">
+  <a href="https://github.com/GeorgeDombrovskyi/Useful_Stuff">
+        <img src="https://iconomator.com/wp-content/uploads/2020/03/hamer-1.png" width="50" height="50"> </a> 
+             <br>Useful Stuff</br> </td>        
+             </tr>
     </table>
 </p>
 

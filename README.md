@@ -18,7 +18,7 @@
         <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX14434911.jpg" width="50" height="50"> </a> 
              <br>SQL<br></br> </td> 
                               <td align="center">
-  <a href="https://github.com/GeorgeDombrovskyi/Useful_Stuff">
+  <a href="https://github.com/GeorgeDombrovskyi/Javascript">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"> </a> 
              <br>Javascript <br>(useful examples)</br> </td>     
                  <td align="center">

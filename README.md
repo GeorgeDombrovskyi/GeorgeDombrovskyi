@@ -1,9 +1,13 @@
 <p align="center">:octocat: Hey What's up!</p>
+
 <p align="center">
-~~  📄 MY GLOSSARIES   ~~
-<br align="center">
+  THIS IS MY GLOSSARIES   <br>
+  THIS IS JUST FOR ME <br>
+  SO, DON'T TOUCH!!!<br><br>
+<!-- <br align="center">
   (click the image)
-  </br>
+  </br> -->
+    <tr> <td> (click the image) </td></tr>
   <table align="center">
   <tr>
       <td align="center">
@@ -20,11 +24,11 @@
                               <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/Javascript">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"> </a> 
-             <br>Javascript <br>(useful examples)</br> </td>     
+             <br>JAVASCRIPT <br>(useful examples)</br> </td>     
                  <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/Useful_Stuff">
         <img src="https://iconomator.com/wp-content/uploads/2020/03/hamer-1.png" width="50" height="50"> </a> 
-             <br>Useful Stuff<br></br> </td>        
+             <br>USEFUL STUFF<br></br> </td>        
              </tr>
     </table>
 </p>

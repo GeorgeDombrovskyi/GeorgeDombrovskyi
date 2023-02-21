@@ -23,8 +23,6 @@
 </p>
 
 <p align="center">
-  <br>
-  <br>
     (click the image)
   <table align="center">
   <tr>

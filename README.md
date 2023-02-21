@@ -23,7 +23,6 @@
 </p>
 
 <p align="center">
-    (click the image)
   <table align="center">
   <tr>
       <td align="center">
@@ -47,6 +46,7 @@
              <br>USEFUL STUFF<br></br> </td>        
              </tr>
     </table>
+        <p align="center">⬆️ click the image ⬆️</p>
 </p>
 
 

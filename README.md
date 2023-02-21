@@ -2,7 +2,7 @@
 <p align="center"
 <div id="header" >
 <img src="https://user-images.githubusercontent.com/125083041/220283470-1202d530-841a-42f4-83ba-127c4546d0ba.gif" align="left" width="200" height="200">
-<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=700&pause=10&color=F78500&multiline=true&repeat=true&width=500&height=150&lines=Hey!+What's+up!+;I'm+George+Dombrovskyi.;Here+I+keep+a+small+glossaries+just+for+myself.;But+if+you+are+looking+for+QA+Engineer%2C;you+can+check+my+CV+and+write+to+me;using+the+links+below!" alt="Typing SVG" /></a>
+<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=700&pause=10&color=F78500&multiline=true&repeat=false&width=500&height=150&lines=Hey!+What's+up!+;I'm+George+Dombrovskyi.;Here+I+keep+a+small+glossaries+just+for+myself.;But+if+you+are+looking+for+QA+Engineer%2C;you+can+check+my+CV+and+write+to+me;using+the+links+below!" alt="Typing SVG" /></a>
 </div>
 <br>
 <br>

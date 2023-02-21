@@ -4,6 +4,22 @@
 <img src="https://user-images.githubusercontent.com/125083041/220283470-1202d530-841a-42f4-83ba-127c4546d0ba.gif" align="left" width="200" height="200">
 <br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=700&pause=10&color=F78500&multiline=true&repeat=false&width=500&height=150&lines=Hey!+What's+up!+;I'm+George+Dombrovskyi.;Here+I+keep+a+small+glossaries+just+for+myself.;But+if+you+are+looking+for+QA+Engineer%2C;you+can+check+my+CV+and+write+to+me;using+the+links+below!" alt="Typing SVG" />
 </div>
+<br>
+<br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/george-dombrovskyi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/iseemygoal">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vitoosyko.github.io/">
+    <img src="https://img.shields.io/badge/My CV-blue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=GeorgeDombrovskyi&style=flat-square&color=blue" alt="GitHub Bage"/>
+</div>
 </p>
 
 <p align="center">

@@ -13,7 +13,7 @@
   <a href="https://t.me/iseemygoal">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://vitoosyko.github.io/">
+  <a href="https://sites.google.com/view/qa-engineer-cv">
     <img src="https://img.shields.io/badge/My CV-blue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV Badge"/>
   </a>
 </div>

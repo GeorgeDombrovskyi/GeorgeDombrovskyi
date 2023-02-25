@@ -22,6 +22,9 @@
 </div>
 </p>
 
+
+ <p align="center"><br>My glossaries<br>
+               ⬇️ click the image ⬇️</p>
 <p align="center">
   <table align="center">
   <tr>
@@ -46,19 +49,35 @@
              <br>USEFUL STUFF<br></br> </td>        
              </tr>
     </table>
-        <p align="center">⬆️ click the image ⬆️</p>
+        <p align="center"><br><br>
+               ⬇️ My mobile applications (GooglePlay) ⬇️</p>
 </p>
 
 
 
-<!-- ![me](https://user-images.githubusercontent.com/125083041/220283470-1202d530-841a-42f4-83ba-127c4546d0ba.gif) -->
-  
 
 
-<!-- ![javascript](https://user-images.githubusercontent.com/125083041/220153207-5778d7a9-f32c-42f0-8bc3-ffe49e2e09ba.png)
-![sql](https://user-images.githubusercontent.com/125083041/220153216-9514190e-719b-403b-8248-0eff23ab96be.png)
-![terminal](https://user-images.githubusercontent.com/125083041/220153229-0fb3a56f-0d9e-409a-a43f-e05dd64fa199.png)
-![useful](https://user-images.githubusercontent.com/125083041/220153233-cd8f3fd3-5cca-4f51-80fd-9e7116ef9e34.png)
 
- -->
+
+
+
+
+ 
+<p align="center">
+    <table align="center">
+  <tr>
+      <td align="center">
+<img width="62" alt="catIcon" align="left" src="https://user-images.githubusercontent.com/125083041/221374028-444cddfd-342f-4173-b9d4-bd367ab41c0d.png">
+        English Audio Cat <br> (To improve listening comprehension of English)</tr></td>
+  <tr>
+      <td align="center">
+<img width="62" alt="cosacIcon" align="left" src="https://user-images.githubusercontent.com/125083041/221374029-3c1d7b26-8e3c-4181-aeff-05f5f724aac1.png">
+                 Перевір себе на орка! <br> (quiz on the Ukrainian theme)</tr></td>
+        </tr>
+        </td>
+        </table>
+</p> 
+
+
+
 

@@ -67,12 +67,17 @@
     <table align="center">
   <tr>
       <td align="center">
-<img width="62" alt="catIcon" align="left" src="https://user-images.githubusercontent.com/125083041/221374028-444cddfd-342f-4173-b9d4-bd367ab41c0d.png">
-        English Audio Cat <br> (To improve listening comprehension of English)</tr></td>
+          <a href="https://play.google.com/store/apps/details?id=com.DombrovApp.english_audio_cat">
+<img width="62" alt="catIcon" align="left" src="https://user-images.githubusercontent.com/125083041/221374028-444cddfd-342f-4173-b9d4-bd367ab41c0d.png"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.DombrovApp.english_audio_cat">
+          English Audio Cat</a> <br> (To improve listening comprehension of English)
+    </td>
   <tr>
       <td align="center">
-<img width="62" alt="cosacIcon" align="left" src="https://user-images.githubusercontent.com/125083041/221374029-3c1d7b26-8e3c-4181-aeff-05f5f724aac1.png">
-                 Перевір себе на орка! <br> (quiz on the Ukrainian theme)</tr></td>
+                  <a href="https://play.google.com/store/apps/details?id=com.DombrovApp.test_yourself_for_orc">
+<img width="62" alt="cosacIcon" align="left" src="https://user-images.githubusercontent.com/125083041/221374029-3c1d7b26-8e3c-4181-aeff-05f5f724aac1.png"> </a>
+                  <a href="https://play.google.com/store/apps/details?id=com.DombrovApp.test_yourself_for_orc">
+                    Перевір себе на орка!</a> <br> (quiz on the Ukrainian theme)</td>
         </tr>
         </td>
         </table>

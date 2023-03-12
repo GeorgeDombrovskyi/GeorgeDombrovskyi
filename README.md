@@ -77,7 +77,7 @@
                   <a href="https://play.google.com/store/apps/details?id=com.DombrovApp.test_yourself_for_orc">
 <img width="62" alt="cosacIcon" align="left" src="https://user-images.githubusercontent.com/125083041/221374029-3c1d7b26-8e3c-4181-aeff-05f5f724aac1.png"> </a>
                   <a href="https://play.google.com/store/apps/details?id=com.DombrovApp.test_yourself_for_orc">
-                    Перевір себе на орка!</a> <br> (quiz on the Ukrainian theme)</td>
+                    Перевір  себе на орка!</a> <br> (quiz on the Ukrainian theme)</td>
         </tr>
         </td>
         </table>

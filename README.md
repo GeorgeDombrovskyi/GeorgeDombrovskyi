@@ -42,7 +42,7 @@
                         <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/SQL_gls">
         <img src="https://user-images.githubusercontent.com/125083041/220153216-9514190e-719b-403b-8248-0eff23ab96be.png" width="50px" height="50px"> </a> 
-             <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  SQL &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  <br></br> </td> 
+             <br> &ensp;&ensp;&ensp;&ensp;  SQL &ensp;&ensp;&ensp;&ensp;  <br></br> </td> 
                               <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/Javascript">
         <img src="https://user-images.githubusercontent.com/125083041/220153207-5778d7a9-f32c-42f0-8bc3-ffe49e2e09ba.png" width="50" height="50"> </a> 

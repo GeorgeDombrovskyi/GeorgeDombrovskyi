@@ -33,8 +33,7 @@
         <img src="https://user-images.githubusercontent.com/125083041/220153229-0fb3a56f-0d9e-409a-a43f-e05dd64fa199.png" 
           width="50" height="50">
       </a> 
-        <br>TERMINAL<br></br>
-          </td>
+        <br>TERMINAL<br></br> </td>
              <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/selenium_python/tree/main/ChromeDriver">
         <img src="https://user-images.githubusercontent.com/125083041/227162112-08622c8c-4810-4669-abb0-9c1cb02b1873.png" width="50" height="50"> </a> 
@@ -42,7 +41,7 @@
                         <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/SQL_gls">
         <img src="https://user-images.githubusercontent.com/125083041/220153216-9514190e-719b-403b-8248-0eff23ab96be.png" width="50px" height="50px"> </a> 
-             <br> SQL <br> &ensp;&ensp;&ensp;&ensp;  &ensp;&ensp;&ensp;&ensp;   </br> </td> 
+             <br> SQL <br> &ensp;&ensp;&ensp;&ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;   </br> </td> 
                               <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/Javascript">
         <img src="https://user-images.githubusercontent.com/125083041/220153207-5778d7a9-f32c-42f0-8bc3-ffe49e2e09ba.png" width="50" height="50"> </a> 

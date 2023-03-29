@@ -41,7 +41,7 @@
              <br>SELENIUM <br>(python)</br> </td>   
                         <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/SQL_gls">
-        <img src="https://user-images.githubusercontent.com/125083041/220153216-9514190e-719b-403b-8248-0eff23ab96be.png" width="50" height="50"> </a> 
+        <img src="https://user-images.githubusercontent.com/125083041/220153216-9514190e-719b-403b-8248-0eff23ab96be.png" width="50px" height="50px"> </a> 
              <br>SQL<br></br> </td> 
                               <td align="center">
   <a href="https://github.com/GeorgeDombrovskyi/Javascript">
